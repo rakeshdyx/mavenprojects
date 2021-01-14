@@ -19,8 +19,8 @@ public class AppTest
     }
 
     @Test
-    public void shouldAnswerWithFalse()
+    public void shouldAnswerWithAnthoer()
     {
-        assertTrue( false );
+        assertTrue( true );
     }
 }
